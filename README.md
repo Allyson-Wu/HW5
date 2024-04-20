@@ -2,9 +2,9 @@
 
 目前這個code目的是設計和實作 Lexi 編輯器的文件結構和格式化部分。
 
-作業 #1（Composite 和 Strategy）：
--使用 Composite 和 Strategy 設計模式。
-1.完成四個class: Character, Rectangle, Row, Column
+作業 #1（Composite 和 Strategy）：<br>
+-使用 Composite 和 Strategy 設計模式。<br>
+1.完成四個class: Character, Rectangle, Row, Column<br>
 ![image](https://github.com/Allyson-Wu/HW5/assets/142470368/ca6c5f5a-50b5-481f-ae21-df065a54bc54)
 
 
