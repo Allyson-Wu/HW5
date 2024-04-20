@@ -11,6 +11,9 @@ For example, 這份文檔是一個包含兩行的欄位。第一行包括：一�
 作業 #2（Decorator）：<br>
 -設計與實作 Lexi 編輯器的裝飾部分。<br>
 1.新增邊框(border)和捲軸(scroller)。<br>
+For example,<br>
+![Screenshot 2024-04-20 152652](https://github.com/Allyson-Wu/HW5/assets/142470368/730ba0c7-91a9-4574-94da-960ffe18bbd6)<br>
+
 
 作業 #3（AbstractFactory、FactoryMethod 和 Singleton）：<br>
 -設計與實作 Lexi 編輯器的外觀部分。<br>
