@@ -5,6 +5,8 @@
 作業 #1（Composite 和 Strategy）：
 -使用 Composite 和 Strategy 設計模式。
 1.完成四個class: Character, Rectangle, Row, Column
+![image](https://github.com/Allyson-Wu/HW5/assets/142470368/ca6c5f5a-50b5-481f-ae21-df065a54bc54)
+
 
 作業 #2（Decorator）：
 -設計與實作 Lexi 編輯器的裝飾部分。
