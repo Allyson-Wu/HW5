@@ -13,6 +13,7 @@ For example, 這份文檔是一個包含兩行的欄位。第一行包括：一�
 1.新增邊框(border)和捲軸(scroller)。<br>
 For example,<br>
 ![Screenshot 2024-04-20 152652](https://github.com/Allyson-Wu/HW5/assets/142470368/730ba0c7-91a9-4574-94da-960ffe18bbd6)<br>
+For example,按鈕包含‘PQ’，標籤包含‘pq<br>
 
 
 作業 #3（AbstractFactory、FactoryMethod 和 Singleton）：<br>
@@ -20,6 +21,8 @@ For example,<br>
 1.添加兩種外觀風格的標籤(Label)和按鈕(Button)：紅色和綠色。<br>
 2.使用 AbstractFactory、FactoryMethod 和 Singleton 設計模式。<br>
 3.使用環境變數選擇外觀風格。<br>
+![Screenshot 2024-04-20 152759](https://github.com/Allyson-Wu/HW5/assets/142470368/861e3375-4023-4452-a14b-ddc206509253)<br>
+
 
 作業 #4（Bridge）：<br>
 -設計與實作 Lexi 編輯器的多視窗系統部分。<br>
