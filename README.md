@@ -29,6 +29,9 @@ For example,按鈕包含‘PQ’，標籤包含‘pq<br>
 1.支援兩種視窗系統：AWT 和 Swing。<br>
 2.使用 Bridge 設計模式。<br>
 3.使用環境變數選擇視窗系統。<br>
+![Screenshot 2024-04-20 152936](https://github.com/Allyson-Wu/HW5/assets/142470368/1b09c4f6-2097-42ef-9d96-32c8e8c3c8de)<br>
+For example, 左邊是AWT視窗, 右邊是Swing視窗。
+
 
 **---未完成---**<br>
 作業 #5 命令（Command）、責任鍊（ChainOfResponsibility）和原型（Prototype）:<br>
