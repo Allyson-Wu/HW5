@@ -1,7 +1,7 @@
 # HW5
 
-目前這個code目的是設計和實作 Lexi 編輯器的文件結構和格式化部分。
-UML_HW4.jpg 是作業#1~#4的物件關係圖
+目前這個code目的是設計和實作 Lexi 編輯器的文件結構和格式化部分。<br>
+UML_HW4.jpg 是作業#1~#4的物件關係圖<br>
 
 作業 #1（Composite 和 Strategy）：<br>
 -使用 Composite 和 Strategy 設計模式。<br>
