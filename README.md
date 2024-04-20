@@ -5,7 +5,7 @@
 作業 #1（Composite 和 Strategy）：<br>
 -使用 Composite 和 Strategy 設計模式。<br>
 1.完成四個class: Character, Rectangle, Row, Column<br>
-![image](https://github.com/Allyson-Wu/HW5/assets/142470368/ca6c5f5a-50b5-481f-ae21-df065a54bc54)
+![image](https://github.com/Allyson-Wu/HW5/assets/142470368/ca6c5f5a-50b5-481f-ae21-df065a54bc54)<br>
 For example, 這份文檔是一個包含兩行的欄位。第一行包括：一個字元（a）、一個矩形、一個包含三個字元（X、Y 和 Z）的列，以及另一個字元（b）。
 
 作業 #2（Decorator）：<br>
