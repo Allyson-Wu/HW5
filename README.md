@@ -46,6 +46,9 @@ For example, 左邊是AWT視窗, 右邊是Swing視窗。
 -減小字體大小 1。<br>
 -設定字體大小為 14。<br>
 -設定字體大小為 20。<br>
+For example,<br>
+![image](https://github.com/Allyson-Wu/HW5/assets/142470368/8549114a-aa69-4301-a8d5-2c0261b921bc)<br>
+
 
 **---未完成---**<br>
 作業 #6: 迭代器（Iterator）和訪問者（Visitor）設計模式，同時使用了命令。<br>
